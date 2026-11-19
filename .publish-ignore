@@ -1,0 +1,5 @@
+# .publish-ignore — obsidian-headless publishing exclusions (.gitignore format).
+# Matching notes get `publish: false` set automatically; everything else that
+# lacks a publish flag gets `publish: true`. Reginald reads this each run.
+
+Archive

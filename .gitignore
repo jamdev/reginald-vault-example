@@ -1,0 +1,17 @@
+# Files created by Finder and Windows Explorer
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Editor swap files, backups and temporary files
+*.swp
+*.swo
+*~
+*.tmp
+
+# Obsidian session state, cache and deleted notes
+/.obsidian/workspace.json
+/.obsidian/workspace-mobile.json
+/.obsidian/cache/
+/.trash/
